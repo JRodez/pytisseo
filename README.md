@@ -6,7 +6,7 @@ Tisseo API v1 python library based on [skill-alexa-bus-toulouse](https://github.
 
 ## Usage documentation
 
-See [the documentation]](./docs) for more information.
+See [the documentation](https://github.com/JRodez/pytisseo/wiki) for more information.
 
 ## Requirements
 
